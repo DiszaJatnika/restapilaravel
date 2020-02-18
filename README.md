@@ -1,2 +1,2 @@
 # restapilaravel
-Rest Api Laravel 5.7
+Rest Api Laravel 6.0
